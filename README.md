@@ -25,6 +25,35 @@ This project implements a web application to predict medical insurance costs usi
 
 ---
 
+## 0. Setting up the Virtual Environment
+
+1. Create a new virtual environment:
+   ```bash
+   # On Windows
+   python -m venv venv
+
+   # On macOS/Linux
+   python3 -m venv venv
+   ```
+
+2. Activate the virtual environment:
+   ```bash
+   # On Windows
+   .\venv\Scripts\activate
+
+   # On macOS/Linux
+   source venv/bin/activate
+   ```
+
+3. Verify the virtual environment is active (you should see `(venv)` at the beginning of your command prompt)
+
+4. Deactivate the virtual environment when you're done:
+   ```bash
+   deactivate
+   ```
+
+---
+
 ## 1. Model Training
 
 1. Install dependencies:
