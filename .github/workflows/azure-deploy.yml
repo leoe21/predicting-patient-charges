@@ -47,6 +47,7 @@ jobs:
           tenant-id: ${{ secrets.AZ_TENANT_ID }}
           subscription-id: ${{ secrets.AZ_SUBSCRIPTION_ID }}
           enable-AzPSSession: true
+          auth-type: OIDC
 
       - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
