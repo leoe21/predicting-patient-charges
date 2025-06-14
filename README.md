@@ -177,3 +177,11 @@ The response will be the predicted insurance cost value.
 - [Publishing Docker images to Azure Container Registry with GitHub Actions - DEV.to](https://dev.to/reniciuspagotto/publishing-docker-image-in-azure-container-registry-with-github-actions-4i7)
 
 > **Live Demo:** [https://patient-fbc3deaff8a4e9fx.canadacentral-01.azurewebsites.net/predict](https://patient-fbc3deaff8a4e9fx.canadacentral-01.azurewebsites.net/predict)
+
+---
+
+## Visualización de la aplicación desplegada
+
+![Vista de la aplicación desplegada](Media/visual.png)
+
+> **Nota:** El enlace de la demo estará disponible solo hasta el 06 de julio de 2025, ya que este proyecto utiliza el free trial de Azure.image.png
