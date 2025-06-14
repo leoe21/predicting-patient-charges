@@ -2,11 +2,11 @@
 
 [![Join us on Slack](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://join.slack.com/t/ngc-goz8665/shared_invite/zt-r01kumfq-dQUT3c95BxEP_fnk4yJFfQ)
 
-![Contributors](https://img.shields.io/github/contributors/TU_USUARIO/TU_REPOSITORIO?style=plastic)
-![Forks](https://img.shields.io/github/forks/TU_USUARIO/TU_REPOSITORIO)
-![Stars](https://img.shields.io/github/stars/TU_USUARIO/TU_REPOSITORIO)
-![Licence](https://img.shields.io/github/license/TU_USUARIO/TU_REPOSITORIO)
-![Issues](https://img.shields.io/github/issues/TU_USUARIO/TU_REPOSITORIO)
+![Contributors](https://img.shields.io/github/contributors/leoe21/predicting-patient-charges?style=plastic)
+![Forks](https://img.shields.io/github/forks/leoe21/predicting-patient-charges)
+![Stars](https://img.shields.io/github/stars/leoe21/predicting-patient-charges)
+![Licence](https://img.shields.io/github/license/leoe21/predicting-patient-charges)
+![Issues](https://img.shields.io/github/issues/leoe21/predicting-patient-charges)
 
 This project implements a web application to predict medical insurance costs using demographic and health data, leveraging PyCaret and Flask. It includes model training, a web API, and deployment via Docker and Azure.
 
