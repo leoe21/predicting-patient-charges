@@ -174,3 +174,4 @@ The response will be the predicted insurance cost value.
 
 ## 7. Sources and References
 - [Tutorial Machine Learning Pipelines & MLOps Deployment - DataCamp](https://www.datacamp.com/tutorial/tutorial-machine-learning-pipelines-mlops-deployment)
+- [Publishing Docker images to Azure Container Registry with GitHub Actions - DEV.to](https://dev.to/reniciuspagotto/publishing-docker-image-in-azure-container-registry-with-github-actions-4i7)
