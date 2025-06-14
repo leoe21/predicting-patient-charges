@@ -83,7 +83,7 @@
         <form action="{{ url_for('predict') }}" method="post">
             <div class="form-group">
                 <label>Age</label>
-                <input type="number" name="age" class="form-control" placeholder="Enter your age" required>
+                <input type="number" name="age" class="form-control" placeholder="Enter your age" required min="18" max="64">
             </div>
             <div class="form-group">
                 <label>Sex</label>
@@ -95,11 +95,11 @@
             </div>
             <div class="form-group">
                 <label>BMI</label>
-                <input type="number" step="0.1" name="bmi" class="form-control" placeholder="Enter your BMI" required>
+                <input type="number" step="0.1" name="bmi" class="form-control" placeholder="Enter your BMI" required min="15.96" max="53.13">
             </div>
             <div class="form-group">
                 <label>Children</label>
-                <input type="number" name="children" class="form-control" placeholder="Enter number of children" required>
+                <input type="number" name="children" class="form-control" placeholder="Enter number of children" required min="0" max="5">
             </div>
             <div class="form-group">
                 <label>Smoker</label>
