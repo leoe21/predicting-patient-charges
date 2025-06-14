@@ -184,4 +184,4 @@ The response will be the predicted insurance cost value.
 
 ![Vista de la aplicación desplegada](Media/visual.png)
 
-> **Nota:** El enlace de la demo estará disponible solo hasta el 06 de julio de 2025, ya que este proyecto utiliza el free trial de Azure.image.png
+> **Nota:** El enlace de la demo estará disponible solo hasta el 06 de julio de 2025, ya que este proyecto utiliza el free trial de Azure.
