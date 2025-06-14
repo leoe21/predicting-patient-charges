@@ -12,7 +12,7 @@ This project implements a web application to predict medical insurance costs usi
 
 ---
 
-## Project Structure
+## Project Structure 2025
 
 ```
 .
